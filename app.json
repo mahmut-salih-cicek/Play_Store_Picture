@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Apple Watch Launcher Widget",
+	  "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.watch.widget"
+  },
+  {
+    "name": "Apple Watch Count Up Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_countdown.jpg?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_countdown_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.xmod.apple_watch"
+  },
+  {
+    "name": "Apple Watch Breathe Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_nefes.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_nefes_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.watch.widget.Breathe"
+  },
+  {
+    "name": "Apple Watch California Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.digital.watch.California"
+  },
+  {
+    "name": "Apple Mac OS Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/mac_os_widget.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/mac_os_widget_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.xmod.apple.mac.os.widget"
+  },
+  {
+    "name": "Apple Watch Artist Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.xmod.apple.watch.xmod"
+  },
+  {
+    "name": "Apple Watch Numerals Duo Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_2.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.digital.watch.clock"
+  },
+  {
+    "name": "WIN 11 Wallpapers Theme",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/wn_11_wall.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/wn_11_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.windows.wallpaper"
+  },
+  {
+    "name": "Java Compiler Style Clock Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock_ss.jpg?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.xmod.javaditigalclockwidget"
+  },
+  {
+    "name": "C++ Code Clock Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/code_clock.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock_ss.jpg?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.xmod.javaditigalclockwidget"
+  },
+    {
+    "name": "Apple Watch Utility Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog1.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.watch.widget.simple"
+  },
+    {
+    "name": "Pubg New State Wallpaper",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/pubg_wallpaper_Ads.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/pubg_new_stete_ads_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.pubg.state.wallpaper"
+  }
+]
