@@ -1,4 +1,13 @@
 [
+	  {
+    "name": "Apple Watch Concept Widget",
+    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
+    "link":"https://play.google.com/store/apps/details?id=com.apple.watch.xmod.style"
+  },
+	
+	
+	
   {
     "name": "Apple Watch Launcher Widget",
 	  "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
