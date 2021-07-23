@@ -26,12 +26,25 @@
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_nefes_ss.png?raw=true",
     "link":"https://play.google.com/store/apps/details?id=com.apple.watch.widget.Breathe"
   },
+	
+	
+	 {
+    "name": "Apple Watch Toys Story Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-2.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=xmod.watch.cartoon_widget"
+  },
+	
+	
+	
+	
   {
     "name": "Apple Watch California Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california_ss.png?raw=true",
     "link":"https://play.google.com/store/apps/details?id=com.apple.digital.watch.California"
   },
+	
   {
     "name": "Apple Mac OS Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/mac_os_widget.png?raw=true",
