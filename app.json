@@ -99,7 +99,7 @@
     "name": "Apple Watch Artist Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist_ss.png?raw=true",
-    "link":"",
+    "link":"https://play.google.com/store/apps/details?id=com.artistwatch.widget",
          "discount":"%50 Discount"
   },
     
@@ -107,7 +107,7 @@
     "name": "Apple Watch California Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california_ss.png?raw=true",
-    "link":"",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.digital.watch.California",
           "discount":"%50 Discount"
   },
     
@@ -115,14 +115,14 @@
     "name": "Java Compiler Style Clock Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock_ss.jpg?raw=true",
-    "link":"",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.javawidget",
           "discount":"%50 Discount"
   },
   {
     "name": "C++ Code Clock Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/code_clock.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock_ss.jpg?raw=true",
-    "link":"",
+    "link":"https://play.google.com/store/apps/details?id=com.cplus.widget",
       "discount":"%50 Discount"
   }
     
