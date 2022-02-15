@@ -1,6 +1,16 @@
 [
     
     
+    
+      {
+    "name": "Apple Watch System Manager",
+    "icon":"https://play-lh.googleusercontent.com/5WJEKc6L3528AKAKMd--u7xM7JF0U6NpAt71dCd4Rel4rE5mGC71icLH-RMtuCWZKQ=s360",
+    "ss":"https://play-lh.googleusercontent.com/RF82TDgopbbQ1wmo7w69UbJHmKbw3YmoZMui50_K3owldveD_po7R6ehqVHawRywRys=w2560-h1340",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.applewatchsystemmanager&gl=TR",
+    "discount":"NEW FACE"
+  },
+    
+    
       {
     "name": "Apple Watch Launcher Widget",
       "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
@@ -108,7 +118,7 @@
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california_ss.png?raw=true",
     "link":"https://play.google.com/store/apps/details?id=com.sout.digital.watch.California",
-          "discount":"0"
+          "discount":""
   },
     
       {
@@ -116,7 +126,7 @@
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/java_clock_ss.jpg?raw=true",
     "link":"https://play.google.com/store/apps/details?id=com.sout.javawidget",
-          "discount":"0"
+          "discount":""
   },
   {
     "name": "C++ Code Clock Widget",
