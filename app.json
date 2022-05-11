@@ -1,14 +1,32 @@
 [
        
          
-                 {
-    "name": "Apple Watch Crypto Currency Widget ",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.sout&hl=tr&gl=US",
+            {
+    "name": "Apple Watch Launcher Widget",
+      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
     "discount":""
   },
-         
+       
+        
+    
+      {
+    "name": "Apple Watch Colorful Widget ",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/colorful_img.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/mix.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.colorful&hl=tr&gl=US",
+          "discount":""
+  },
+       
+         {
+    "name": "Apple Watch Concept Widget",
+    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
+    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
+          "discount":""
+  },
+    
          
          
             {
@@ -35,14 +53,7 @@
     
     
         
-     {
-    "name": "Apple Watch Concept Widget",
-    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
-    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
-    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
-          "discount":""
-  },
-    
+   
 
     
 
@@ -59,13 +70,17 @@
  
     
             
-      {
-    "name": "Apple Watch Launcher Widget",
-      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
+     
+       
+       
+             {
+    "name": "Apple Watch Crypto Currency Widget ",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.sout&hl=tr&gl=US",
     "discount":""
   },
+         
     
        
      {
@@ -116,15 +131,7 @@
     
     
     
-    
-    
-      {
-    "name": "Apple Watch Colorful Widget ",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/colorful_img.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/mix.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.colorful&hl=tr&gl=US",
-          "discount":""
-  },
+   
     
      {
     "name": "Apple Watch Numerals Duo Widget",
