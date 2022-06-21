@@ -1,5 +1,21 @@
 [
        
+          {
+    "name": "Apple Watch Numerals Duo Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_2.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.digital&hl=tr&gl=US",
+         "discount":"Free"
+  },
+    
+    {
+    "name": "Apple Watch Utility Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog1.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.util&hl=tr&gl=US",
+        "discount":"Free"
+  },
+       
          
             {
     "name": "Apple Watch Launcher Widget",
@@ -124,24 +140,9 @@
     
    
     
-     {
-    "name": "Apple Watch Numerals Duo Widget",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_2.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.digital&hl=tr&gl=US",
-         "discount":"Free"
-  },
+  
     
-    {
-    "name": "Apple Watch Utility Widget",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog1.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_Analog_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.util&hl=tr&gl=US",
-        "discount":"Free"
-  },
-    
-    
-    
+ 
  
     
       {
