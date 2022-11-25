@@ -1,15 +1,20 @@
 [
        
-       
-       
-            {
+  {
+    "name": "Launcher iOS 16 Widget",
+    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/QZC1DO3PQIYj5l6TdNqvbdrhrPic5oFn9pj8o7s2sBBcj90b3Eea2kaf7rBLVKqRvtM=w5120-h2880",
+    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
+    "discount":"Free,New Widget"
+  },
+ 
+  {
     "name": "Apple Watch Launcher Widget",
       "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
     "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
     "discount":"Most Seller"
   },
-       
        
                {
     "name": "Lock Screen IOS 16",
@@ -20,9 +25,6 @@
   },
        
          
-     
-       
-       
             {
     "name": "Apple Watch Astronomy",
       "icon":"https://play-lh.googleusercontent.com/OGZj-7NsmEDpeBL3XcIvsWSMEIlWDjrXpy4lDaGWNVonfpedEX0Vwp3Bz0M8zYWy5A=w480-h960",
@@ -74,10 +76,7 @@
        "discount":"%45 Discount"
   },
        
-  
-    
-         
-         
+
          {
     "name": "Apple Watch Count Up Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_countdown.jpg?raw=true",
@@ -87,10 +86,7 @@
   },
     
 
-    
-       
-       
-             {
+     {
     "name": "Apple Watch Crypto Currency Widget ",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
@@ -108,13 +104,7 @@
         "discount":"%45 Discount"
   },
     
-
-    
-  
-    
-    
-    
-
+       
           {
     "name": "Crypto Currency Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
@@ -123,10 +113,8 @@
 "discount":"%45 Discount"
   },
     
-    
-    
-    
-          {
+   
+    {
     "name": "Apple Watch Face Widget ",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/ico.png?raw=true",
     "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/Screenshot_20211107-102544.png?raw=true",
@@ -134,11 +122,8 @@
     "discount":"%45 Discount"
   },
     
-    
-    
-    
-    
-         {
+
+    {
     "name": "Wear Os Watch Faces",
     "icon":"https://play-lh.googleusercontent.com/7SjVakPsfmnu-gjK4HYTcghbfAQYHNFR8fLdEJbh_H_iOUPIIdqpEGXv-L1cHAMLCcA=s360",
     "ss":"https://play-lh.googleusercontent.com/wo8nmxt1-kxAI50AkJ0a9zpp0Xwje8z6DD5PLITBnkiCtgUcVoSnEAHSHFAAs5sDJ-0P=w1440-h620",
@@ -146,10 +131,7 @@
     "discount":" NEW WEAR OS FACE"
   },
     
-    
-    
-   
-    
+ 
      {
     "name": "Apple Watch Numerals Duo Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_2.png?raw=true",
@@ -165,11 +147,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.watch.util&hl=tr&gl=US",
         "discount":"Free"
   },
-    
-    
-    
- 
-    
+      
       {
     "name": "Apple Watch California Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
@@ -193,8 +171,6 @@
       "discount":"Free"
   },
     
- 
-    
        
      {
     "name": "Apple Watch Toys Widget",
@@ -204,12 +180,5 @@
      "discount":"%45 Discount"
   }
     
-    
-    
-    
-
-    
-    
-  
 ]
 
