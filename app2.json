@@ -1,5 +1,13 @@
 [
        
+        {
+    "name": "Launcher iOS 16 Widget",
+    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/QZC1DO3PQIYj5l6TdNqvbdrhrPic5oFn9pj8o7s2sBBcj90b3Eea2kaf7rBLVKqRvtM=w5120-h2880",
+    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
+    "discount":"Free,New Widget"
+  }
+       
          {
     "name": "Apple Watch Launcher Widget",
       "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
