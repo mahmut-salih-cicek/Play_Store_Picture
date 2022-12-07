@@ -6,6 +6,14 @@
     "link":"https://play.google.com/store/apps/details?id=com.developer.applewatch",
     "discount":"limited"
   },
+         
+                  {
+    "name": "Crypto Currency Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
+"discount":"%45 Discount"
+  },
        
        
          {
@@ -74,10 +82,6 @@
     "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.macoswidget",
     "discount":"%45 Discount"
   },
-         
-    
-    
-    
       {
     "name": "Apple Watch Colorful Widget ",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/colorful_img.png?raw=true",
@@ -114,16 +118,7 @@
         "discount":"%45 Discount"
   },
     
-       
-          {
-    "name": "Crypto Currency Widget",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
-"discount":"%45 Discount"
-  },
-    
-   
+     
     {
     "name": "Apple Watch Face Widget ",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/ico.png?raw=true",
