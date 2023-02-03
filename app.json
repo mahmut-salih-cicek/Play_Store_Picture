@@ -7,6 +7,22 @@
     "link":"https://play.google.com/store/apps/details?id=com.developer.gearai",
     "discount":"NEW APP"
   },
+          {
+    "name": "Launcher iOS 16 Widget",
+    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
+    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
+    "discount":"Free,New Widget"
+  },
+ 
+  {
+    "name": "Apple Watch Launcher Widget",
+      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
+    "discount":"Most Seller"
+  },
+       
         
          {
     "name": "Apple Calculator Widget",
@@ -25,30 +41,8 @@
   },
        
        
-         {
-    "name": "Apple Step Counter Widget",
-    "icon":"https://play-lh.googleusercontent.com/8QTTu0JE6UgFRi1OaChr7QmBdlfF4yQ0vec0daU0N9m6wu9SCMUcRczGBPnwJ4QiD1A=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/EsnkvWupnU6EXPkZ7K1CBfdZ3snaEvfk34tCsfHKGVeSeNHP7bsksP-hPyH3yfWg6w=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.developer.apple_watch_step_counter",
-    "discount":"limited free"
-  },
        
-  {
-    "name": "Launcher iOS 16 Widget",
-    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
-    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
-    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
-    "discount":"Free,New Widget"
-  },
- 
-  {
-    "name": "Apple Watch Launcher Widget",
-      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
-    "discount":"Most Seller"
-  },
-       
+      
                {
     "name": "Lock Screen IOS 16",
       "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/Ekran%20Resmi%202022-06-22%2013.34.52.png?raw=true",
