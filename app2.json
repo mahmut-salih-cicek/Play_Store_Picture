@@ -1,5 +1,13 @@
 [
           
+            {
+    "name": "Gear Gpt - Ai Assistance",
+    "icon":"https://play-lh.googleusercontent.com/4DNMUF9Yky7vVkAJCCqq3xMzGl9RJBwbfn6QEIRcg_yEtpYbVa1JJxJiYZ0o-25UqwE=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/EGkCbR9-Qa_o_bYNjLz6wq6Mc0fXJWA_zP6ZDQhsREDZp_gvz1JoBDG8SyS3TzKvrg=w1052-h592",
+    "link":"https://play.google.com/store/apps/details?id=com.developer.gearai",
+    "discount":"NEW APP"
+  },
+          
           {
     "name": "Apple Calculator Widget",
     "icon":"https://play-lh.googleusercontent.com/yzehltxRgJi3-Y7x24BbcuAz9mdLPgtigkl9EDODV8ZNQW37Ojl7pgLRgD35iZAy5_c=w480-h960",
@@ -7,21 +15,8 @@
     "link":"https://play.google.com/store/apps/details?id=com.developer.applewatch",
     "discount":"limited"
   },
-         {
-    "name": "Apple Step Counter Widget",
-    "icon":"https://play-lh.googleusercontent.com/8QTTu0JE6UgFRi1OaChr7QmBdlfF4yQ0vec0daU0N9m6wu9SCMUcRczGBPnwJ4QiD1A=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/EsnkvWupnU6EXPkZ7K1CBfdZ3snaEvfk34tCsfHKGVeSeNHP7bsksP-hPyH3yfWg6w=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.developer.apple_watch_step_counter",
-    "discount":"limited free"
-  },
-          {
-    "name": "Crypto Currency Widget",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
-   "discount":"%45 Discount"
-  },
-       
+          
+           
         {
     "name": "Launcher iOS 16 Widget",
     "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
@@ -29,6 +24,23 @@
     "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
     "discount":"Free,New Widget"
   },
+        
+          {
+    "name": "Crypto Currency Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
+   "discount":"%45 Discount"
+  },
+          
+           {
+    "name": "Apple Watch System Manager",
+    "icon":"https://play-lh.googleusercontent.com/5WJEKc6L3528AKAKMd--u7xM7JF0U6NpAt71dCd4Rel4rE5mGC71icLH-RMtuCWZKQ=s360",
+    "ss":"https://play-lh.googleusercontent.com/RF82TDgopbbQ1wmo7w69UbJHmKbw3YmoZMui50_K3owldveD_po7R6ehqVHawRywRys=w2560-h1340",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.applewatchsystemmanager&gl=TR",
+    "discount":"Most Seller"
+  },
+      
        
          {
     "name": "Apple Watch Launcher Widget",
@@ -38,13 +50,7 @@
     "discount":"Most Seller"
   },
 
-     {
-    "name": "Apple Watch System Manager",
-    "icon":"https://play-lh.googleusercontent.com/5WJEKc6L3528AKAKMd--u7xM7JF0U6NpAt71dCd4Rel4rE5mGC71icLH-RMtuCWZKQ=s360",
-    "ss":"https://play-lh.googleusercontent.com/RF82TDgopbbQ1wmo7w69UbJHmKbw3YmoZMui50_K3owldveD_po7R6ehqVHawRywRys=w2560-h1340",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.applewatchsystemmanager&gl=TR",
-    "discount":"Most Seller"
-  },
+    
    {
     "name": "Apple Watch Astronomy",
       "icon":"https://play-lh.googleusercontent.com/OGZj-7NsmEDpeBL3XcIvsWSMEIlWDjrXpy4lDaGWNVonfpedEX0Vwp3Bz0M8zYWy5A=w480-h960",
