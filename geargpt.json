@@ -1,6 +1,11 @@
-[
-          
-     
+[  
+         {
+    "name": "Launcher iOS 16 Widget",
+    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
+    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
+    "discount":"New Widget"
+  },
           
           {
     "name": "Apple Calculator Widget",
@@ -9,16 +14,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.developer.applewatch",
     "discount":"limited"
   },
-          
-           
-        {
-    "name": "Launcher iOS 16 Widget",
-    "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
-    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
-    "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
-    "discount":"Free,New Widget"
-  },
-        
+             
           {
     "name": "Crypto Currency Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
@@ -152,7 +148,6 @@
     "link":"https://play.google.com/store/apps/details?id=sout.watch.cartoon",
   "discount":"%45 Discount"
   }
-    
-   
+          
 ]
 
