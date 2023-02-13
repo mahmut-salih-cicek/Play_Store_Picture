@@ -1,55 +1,30 @@
-[  
-         
-                 {
+[
+          
+            {
+    "name": "Gear Gpt - Ai Assistance",
+    "icon":"https://play-lh.googleusercontent.com/4DNMUF9Yky7vVkAJCCqq3xMzGl9RJBwbfn6QEIRcg_yEtpYbVa1JJxJiYZ0o-25UqwE=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/EGkCbR9-Qa_o_bYNjLz6wq6Mc0fXJWA_zP6ZDQhsREDZp_gvz1JoBDG8SyS3TzKvrg=w1052-h592",
+    "link":"https://play.google.com/store/apps/details?id=com.developer.gearai",
+    "discount":"NEW APP"
+  },
+          
+          {
     "name": "Apple Calculator Widget",
     "icon":"https://play-lh.googleusercontent.com/yzehltxRgJi3-Y7x24BbcuAz9mdLPgtigkl9EDODV8ZNQW37Ojl7pgLRgD35iZAy5_c=w480-h960",
     "ss":"https://play-lh.googleusercontent.com/vrgVnEPfro1L_ygNdWb1qyrEqpHW3VJE3G49WUzd5CpcTSpDD2OkFauZoCyccCTtR1k=w1052-h592",
     "link":"https://play.google.com/store/apps/details?id=com.developer.applewatch",
     "discount":"limited"
   },
-         
-                {
-    "name": "Apple Watch System Manager",
-    "icon":"https://play-lh.googleusercontent.com/5WJEKc6L3528AKAKMd--u7xM7JF0U6NpAt71dCd4Rel4rE5mGC71icLH-RMtuCWZKQ=s360",
-    "ss":"https://play-lh.googleusercontent.com/RF82TDgopbbQ1wmo7w69UbJHmKbw3YmoZMui50_K3owldveD_po7R6ehqVHawRywRys=w2560-h1340",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.applewatchsystemmanager&gl=TR",
-    "discount":"Most Seller"
-  },
-         
-            {
-    "name": "Apple Watch Launcher Widget",
-      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
-    "discount":"Most Seller"
-  },
-         
-         {
+          
+           
+        {
     "name": "Launcher iOS 16 Widget",
     "icon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
     "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
     "link":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
-    "discount":"New Widget"
+    "discount":"Free,New Widget"
   },
-         
-           {
-    "name": "Apple Watch Crypto Currency Widget ",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.cck",
-   "discount":"%45 Discount"
-  },
-         
-         
-     {
-    "name": "Apple Watch Concept Widget",
-    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
-    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
-    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
-          "discount":"Most Seller"
-  },
-          
-   
+        
           {
     "name": "Crypto Currency Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
@@ -57,7 +32,25 @@
     "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
    "discount":"%45 Discount"
   },
-              
+          
+           {
+    "name": "Apple Watch System Manager",
+    "icon":"https://play-lh.googleusercontent.com/5WJEKc6L3528AKAKMd--u7xM7JF0U6NpAt71dCd4Rel4rE5mGC71icLH-RMtuCWZKQ=s360",
+    "ss":"https://play-lh.googleusercontent.com/RF82TDgopbbQ1wmo7w69UbJHmKbw3YmoZMui50_K3owldveD_po7R6ehqVHawRywRys=w2560-h1340",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.applewatch.applewatchsystemmanager&gl=TR",
+    "discount":"Most Seller"
+  },
+      
+       
+         {
+    "name": "Apple Watch Launcher Widget",
+      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
+    "discount":"Most Seller"
+  },
+
+    
    {
     "name": "Apple Watch Astronomy",
       "icon":"https://play-lh.googleusercontent.com/OGZj-7NsmEDpeBL3XcIvsWSMEIlWDjrXpy4lDaGWNVonfpedEX0Vwp3Bz0M8zYWy5A=w480-h960",
@@ -80,6 +73,13 @@
     "link":"https://play.google.com/store/apps/details?id=com.watch.util&hl=tr&gl=US",
         "discount":"Free"
   },
+     {
+    "name": "Apple Watch Concept Widget",
+    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
+    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
+          "discount":"Most Seller"
+  },
  {
     "name": "Mac Os Ram Cleaner Widget ",
     "icon":"https://play-lh.googleusercontent.com/NxsdVlXhJBzEXqL9w45U_mW2aa550v8dhDfDQ83nSldPGtga_o41SuoHtoq__9-mPDI=s360",
@@ -101,7 +101,13 @@
     "link":"https://play.google.com/store/apps/details?id=com.countup.widget&hl=tr&gl=US",
      "discount":"%45 Discount"
   },
-           
+             {
+    "name": "Apple Watch Crypto Currency Widget ",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.cck",
+   "discount":"%45 Discount"
+  },
      {
     "name": "Apple Watch Artist Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist.png?raw=true",
@@ -117,7 +123,13 @@
     "link":"https://play.google.com/store/apps/details?id=com.sout.custom_apple_watch&hl=tr&gl=US",
    "discount":"%45 Discount"
   },
-        
+         {
+    "name": "Wear Os Watch Faces",
+    "icon":"https://play-lh.googleusercontent.com/7SjVakPsfmnu-gjK4HYTcghbfAQYHNFR8fLdEJbh_H_iOUPIIdqpEGXv-L1cHAMLCcA=s360",
+    "ss":"https://play-lh.googleusercontent.com/wo8nmxt1-kxAI50AkJ0a9zpp0Xwje8z6DD5PLITBnkiCtgUcVoSnEAHSHFAAs5sDJ-0P=w1440-h620",
+    "link":"https://play.google.com/store/apps/details?id=com.watchface.utilstyle&hl=tr&gl=US",
+    "discount":" NEW WEAR OS FACE"
+  },
       {
     "name": "Apple Watch California Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_california.png?raw=true",
@@ -139,7 +151,14 @@
     "link":"https://play.google.com/store/apps/details?id=com.cplus.widget",
       "discount":"Free"
   },
+     {
+    "name": "Apple Watch Toys Widget",
+    "icon":"https://play-lh.googleusercontent.com/TQGSjosw1_To5BosUzFqAu8DcMdvV26s5E_UD_YNRm50GIczt6IaFi-clEuSQg8mag=s360",
+    "ss":"https://play-lh.googleusercontent.com/JbtEF7_OpLLws8WL2Manllw6XxXj_eNwC8Fajo9vQvZZnv62qrc6N_GTR0Q88WKytXo=w2560-h1340",
+    "link":"https://play.google.com/store/apps/details?id=sout.watch.cartoon",
+  "discount":"%45 Discount"
+  }
     
-          
+   
 ]
 
