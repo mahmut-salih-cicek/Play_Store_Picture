@@ -1,12 +1,6 @@
 [
           
-            {
-    "name": "Gear Gpt - Ai Assistance",
-    "icon":"https://play-lh.googleusercontent.com/4DNMUF9Yky7vVkAJCCqq3xMzGl9RJBwbfn6QEIRcg_yEtpYbVa1JJxJiYZ0o-25UqwE=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/EGkCbR9-Qa_o_bYNjLz6wq6Mc0fXJWA_zP6ZDQhsREDZp_gvz1JoBDG8SyS3TzKvrg=w1052-h592",
-    "link":"https://play.google.com/store/apps/details?id=com.developer.gearai",
-    "discount":"NEW APP"
-  },
+        
           
           {
     "name": "Apple Calculator Widget",
@@ -25,12 +19,13 @@
     "discount":"Free,New Widget"
   },
         
-          {
-    "name": "Crypto Currency Widget",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
-   "discount":"%45 Discount"
+               
+         {
+    "name": "Apple Watch Launcher Widget",
+      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
+    "discount":"Most Seller"
   },
           
            {
@@ -41,13 +36,12 @@
     "discount":"Most Seller"
   },
       
-       
-         {
-    "name": "Apple Watch Launcher Widget",
-      "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_launch_ss.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.watch.widget.launch.style&hl=tr&gl=US",
-    "discount":"Most Seller"
+   {
+    "name": "Apple Watch Crypto Currency Widget ",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.cck",
+   "discount":"%45 Discount"
   },
 
     
@@ -58,6 +52,23 @@
     "link":"https://play.google.com/store/apps/details?id=com.watch.astro",
     "discount":"%45 Discount"
   },
+          
+          {
+    "name": "Apple Watch Concept Widget",
+    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
+    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
+    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
+          "discount":"Most Seller"
+  },
+          
+            {
+    "name": "Crypto Currency Widget",
+    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ico.jpg?raw=true",
+    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/cryp_ss.png?raw=true",
+    "link":"https://play.google.com/store/apps/details?id=com.sout.cryptocurrencytracker&hl=tr&gl=US",
+   "discount":"%45 Discount"
+  },
+          
           {
     "name": "Apple Watch Numerals Duo Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_free_digital_2.png?raw=true",
@@ -73,13 +84,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.watch.util&hl=tr&gl=US",
         "discount":"Free"
   },
-     {
-    "name": "Apple Watch Concept Widget",
-    "icon":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/conspecWidget.png",
-    "ss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss_consepct.png",
-    "link":"https://play.google.com/store/apps/details?id=com.mystyle.watch&hl=tr&gl=US",
-          "discount":"Most Seller"
-  },
+     
  {
     "name": "Mac Os Ram Cleaner Widget ",
     "icon":"https://play-lh.googleusercontent.com/NxsdVlXhJBzEXqL9w45U_mW2aa550v8dhDfDQ83nSldPGtga_o41SuoHtoq__9-mPDI=s360",
@@ -101,13 +106,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.countup.widget&hl=tr&gl=US",
      "discount":"%45 Discount"
   },
-             {
-    "name": "Apple Watch Crypto Currency Widget ",
-    "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-3.png?raw=true",
-    "ss":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/unnamed-4.png?raw=true",
-    "link":"https://play.google.com/store/apps/details?id=com.blockchain.widget.cck",
-   "discount":"%45 Discount"
-  },
+          
      {
     "name": "Apple Watch Artist Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/apple_Watch_artist.png?raw=true",
