@@ -170,6 +170,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.sout.javawidget",
           "discount":"%45 Discount"
   },
+        
   {
     "name": "C++ Code Clock Widget",
     "icon":"https://github.com/mahmut-salih-cicek/Play_Store_Picture/blob/main/code_clock.png?raw=true",
@@ -179,13 +180,6 @@
   },
     
        
-     {
-    "name": "Apple Watch Toys Widget",
-    "icon":"https://play-lh.googleusercontent.com/TQGSjosw1_To5BosUzFqAu8DcMdvV26s5E_UD_YNRm50GIczt6IaFi-clEuSQg8mag=s360",
-    "ss":"https://play-lh.googleusercontent.com/JbtEF7_OpLLws8WL2Manllw6XxXj_eNwC8Fajo9vQvZZnv62qrc6N_GTR0Q88WKytXo=w2560-h1340",
-    "link":"https://play.google.com/store/apps/details?id=sout.watch.cartoon",
-     "discount":"%45 Discount"
-  }
     
 ]
 
