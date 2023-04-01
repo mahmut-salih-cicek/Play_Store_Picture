@@ -1,15 +1,23 @@
 [
         
-        {
-    "name": "Apple Watch Launcher Widget",
+    {
+    "name": "Launcher Widget",
     "icon":"https://play-lh.googleusercontent.com/Rr7yrWBA6fTYeaDTchSUj5EjAm9JNZt3jxORR3MWDzswyLWoc7-e8l-ZjiwYcCNU2Q=w480-h960",
     "ss":"https://play-lh.googleusercontent.com/D36DxTW1UKTT6GcBKZpGnpZxOQWCOcSeimVIgzojgxu9w2e6qDIjXGVRvzgTtnZO_NQ=w5120-h2880",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.launcher.widget",
     "discount":"Most Seller"
   },
         
+  {
+    "name": "Dynamic Island Widget",
+    "icon":"https://play-lh.googleusercontent.com/-jjUV7MwnAhWPMnonC04_IRBtDoSbqu_oHuCueWp78OJzUqG1ekrI1HUFXrpHnUQhTpO=w480-h960-rw",
+    "ss":"https://play-lh.googleusercontent.com/IKBzqMXyKTS40cT4jQ2FbDZq--amYj5nalf0SbTcx-OXKJjV6rHbqEqL3vaR9PIoEbw=w5120-h2880-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.app.developer.dynamic.widget",
+    "discount":"New App"
+  },
+        
    {
-    "name": "Apple Watch Calculator Widget",
+    "name": "Calculator Widget",
     "icon":"https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960",
     "ss":"https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
@@ -17,11 +25,19 @@
   },
         
   {
-    "name": "Apple Watch Util Widget",
+    "name": "Util Widget",
     "icon":"https://play-lh.googleusercontent.com/TDM8ncS2oqkYaZ1Dk-vkbmnZlGI2IDt9XYhUuHNzwQxEsq6ZNXCFG_bYibvcj6HSiQ=w480-h960",
     "ss":"https://play-lh.googleusercontent.com/y1wbEEI6TuY7uEWxCb5hPvq9JTTliUfCSIHq4fFu-GI3Q7K3IJ8eC9SvNAXzQ9ay4os=w5120-h2880",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.util.widget",
-    "discount":"Most Seller"
+    "discount":"Free App"
+  },
+        
+    {
+    "name": "Digital Widget",
+    "icon":"https://play-lh.googleusercontent.com/jyPWzhYTWG1FQ-MXp0sLICbMbCJAZoA8vclnto11HbYMHhfcuDXqGqVsnVfnhmwfn_0=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/k6lbqtYFrSKGqrzNzYm9k937L-3ZAWOwM_iPDsazEQfIqbf8_rP2FXpdJVnA_krwNA=w5120-h2880",
+    "link":"https://play.google.com/store/apps/details?id=com.app.developer.digital.widget",
+    "discount":"Free App"
   }
     
        
