@@ -38,7 +38,22 @@
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
     "discount":"Most Seller"
   },
+        {
+    "name": "Astro Widget",
+    "icon":"https://play-lh.googleusercontent.com/sZ0P4gOVHNdY4I87iJzX9UZsLmv5oyNylNphIW-6XCJo3-FPoYCiGXijaA2toij-r-W6=w240-h480",
+    "ss":"https://play-lh.googleusercontent.com/BG6_xpmj0Zrit4NRKtrf0gg-tZ6G-ZJ2JLaPFARuAZzKW070QKggmUSzWtsY4sqegWKM=w2560-h1440",
+    "link": "https://play.google.com/store/apps/details?id=com.app.developer.astro.widget",
+    "discount":"low price"
+  },
         
+    {
+    "name": "Colorful Widget",
+    "icon":"https://play-lh.googleusercontent.com/gBrQfq4f_XH7TmgJMOV4ev3vzj-xoCD69Dz8e98rKccBXBXXGyRObuz5NKNH14RHkw=w480-h960",
+    "ss":"https://play-lh.googleusercontent.com/-jzLU7JomBpaBqo1zpab_8upwsYKqQ7qPhnkyUmD59wDNHJtfxL0-J433JnMH7dENno=w2560-h1440",
+    "link":"https://play.google.com/store/apps/details?id=com.app.developer.colorful.widget",
+    "discount":"low price"
+  },
+                  
   {
     "name": "Util Widget",
     "icon":"https://play-lh.googleusercontent.com/TDM8ncS2oqkYaZ1Dk-vkbmnZlGI2IDt9XYhUuHNzwQxEsq6ZNXCFG_bYibvcj6HSiQ=w480-h960",
@@ -56,7 +71,7 @@
   },
         
    {
-    "name": "Util Widget",
+    "name": "Count Up Widget",
     "icon":"https://play-lh.googleusercontent.com/-SdeNJZ_B4rDc0QtTshFCc7PO2A2GJBlYvbYoay_riwr59QvTIBd0Hdit3Ka0RhvG9TN=w240-h480-rw",
     "ss":"https://play-lh.googleusercontent.com/L5Ly_YbaQkPqSbXTJUE3HApaHwbk27M7sP9U5_h7Xwl7Xgp1mTDuFeE6CW_HS1_O0yZo=w2560-h1440-rw",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.countUp.widget",
