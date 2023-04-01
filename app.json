@@ -15,6 +15,14 @@
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.dynamic.widget",
     "discount":"New App"
   },
+        
+   {
+    "name": "System Manager Widget",
+    "icon":"https://play-lh.googleusercontent.com/vjnB1a-lnboRKPZz3PRwnJfMvgj0oQ3qM9bMHqX4zx8iDFzDJVaPQO8dkEJrEXIDuh0R=w480-h960-rw",
+    "ss": "https://play-lh.googleusercontent.com/Ao_WHP3VtSHceQ0eXdCJ7_rUtlf_HPCHCXrf8pir1-o8m9ESM3gWgvkMWlrR0cdZbQ=w5120-h2880-rw,
+    "link": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
+    "discount":"Best Sell"
+  },
    
   {
     "name": "Crypto Tracker Widget",
