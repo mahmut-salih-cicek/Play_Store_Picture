@@ -13,7 +13,7 @@
     "icon":"https://play-lh.googleusercontent.com/-jjUV7MwnAhWPMnonC04_IRBtDoSbqu_oHuCueWp78OJzUqG1ekrI1HUFXrpHnUQhTpO=w480-h960-rw",
     "ss":"https://play-lh.googleusercontent.com/IKBzqMXyKTS40cT4jQ2FbDZq--amYj5nalf0SbTcx-OXKJjV6rHbqEqL3vaR9PIoEbw=w5120-h2880-rw",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.dynamic.widget",
-    "discount":"Limited Free App!!"
+    "discount":""
   },
         
    {
@@ -23,22 +23,14 @@
     "link": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
     "discount":"%35 discount"
   },
-   
-  {
-    "name": "Crypto Tracker Widget",
-    "icon":"https://play-lh.googleusercontent.com/hcYc1SERNT3tX6hdRZwyCwZQVc_i2rqeWZBqsLE4ZG_sCRHmAsKYdhjh6zX66l8FrVo=w240-h480-rw",
-    "ss":"https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
-    "discount":"Limited Free App!!"
-  },
-   {
+          {
     "name": "Ios 16 Widget",
     "icon":"https://play-lh.googleusercontent.com/Mw1vN7QSsLA3djNcQ8YILf72EtDCQmo__JwXkeODM-DfVPtipRfoRSDjOBCWqQ2e53I=w240-h480-rw",
     "ss":"https://play-lh.googleusercontent.com/7ZBFWlfZaJ2hgdu8IzLuGdgrFdLp0kI5cvn6t2Od0Ys0gMktkF2PcyO9uXXJtzVMI7Tm=w2560-h1440-rw",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.concept.widget",
     "discount":"Limited Free App!!"
   },
-        
+           
    {
     "name": "Calculator Widget",
     "icon":"https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960",
@@ -60,6 +52,14 @@
     "ss":"https://play-lh.googleusercontent.com/-jzLU7JomBpaBqo1zpab_8upwsYKqQ7qPhnkyUmD59wDNHJtfxL0-J433JnMH7dENno=w2560-h1440",
     "link":"https://play.google.com/store/apps/details?id=com.app.developer.colorful.widget",
     "discount":"Limited Free App!!"
+  },
+        
+          {
+    "name": "Crypto Tracker Widget",
+    "icon":"https://play-lh.googleusercontent.com/hcYc1SERNT3tX6hdRZwyCwZQVc_i2rqeWZBqsLE4ZG_sCRHmAsKYdhjh6zX66l8FrVo=w240-h480-rw",
+    "ss":"https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
+    "discount":""
   },
                   
   {
