@@ -1,89 +1,12 @@
 [
         
-  {
-    "name": "Launcher Widget",
-    "icon":"https://play-lh.googleusercontent.com/Rr7yrWBA6fTYeaDTchSUj5EjAm9JNZt3jxORR3MWDzswyLWoc7-e8l-ZjiwYcCNU2Q=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/D36DxTW1UKTT6GcBKZpGnpZxOQWCOcSeimVIgzojgxu9w2e6qDIjXGVRvzgTtnZO_NQ=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.launcher.widget",
-    "discount":"%35 Discount"
-  },
-        
-  {
-    "name": "Dynamic Island Widget",
-    "icon":"https://play-lh.googleusercontent.com/-jjUV7MwnAhWPMnonC04_IRBtDoSbqu_oHuCueWp78OJzUqG1ekrI1HUFXrpHnUQhTpO=w480-h960-rw",
-    "ss":"https://play-lh.googleusercontent.com/IKBzqMXyKTS40cT4jQ2FbDZq--amYj5nalf0SbTcx-OXKJjV6rHbqEqL3vaR9PIoEbw=w5120-h2880-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.dynamic.widget",
-    "discount":"New App"
-  },
-        
+  
    {
-    "name": "System Manager Widget",
-    "icon":"https://play-lh.googleusercontent.com/vjnB1a-lnboRKPZz3PRwnJfMvgj0oQ3qM9bMHqX4zx8iDFzDJVaPQO8dkEJrEXIDuh0R=w480-h960-rw",
-    "ss": "https://play-lh.googleusercontent.com/Ao_WHP3VtSHceQ0eXdCJ7_rUtlf_HPCHCXrf8pir1-o8m9ESM3gWgvkMWlrR0cdZbQ=w5120-h2880-rw",
-    "link": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
-    "discount":"%35 Discount"
-  },
-   
-  {
-    "name": "Crypto Tracker Widget",
-    "icon":"https://play-lh.googleusercontent.com/hcYc1SERNT3tX6hdRZwyCwZQVc_i2rqeWZBqsLE4ZG_sCRHmAsKYdhjh6zX66l8FrVo=w240-h480-rw",
-    "ss":"https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
-    "discount":"New App"
-  },
-   {
-    "name": "Ios 16 Widget",
-    "icon":"https://play-lh.googleusercontent.com/Mw1vN7QSsLA3djNcQ8YILf72EtDCQmo__JwXkeODM-DfVPtipRfoRSDjOBCWqQ2e53I=w240-h480-rw",
-    "ss":"https://play-lh.googleusercontent.com/7ZBFWlfZaJ2hgdu8IzLuGdgrFdLp0kI5cvn6t2Od0Ys0gMktkF2PcyO9uXXJtzVMI7Tm=w2560-h1440-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.concept.widget",
-    "discount":"Limited Free App!!"
-  },
-        
-   {
-    "name": "Calculator Widget",
-    "icon":"https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
-    "discount":"Most Seller"
-  },
-        {
-    "name": "Astro Widget",
-    "icon":"https://play-lh.googleusercontent.com/sZ0P4gOVHNdY4I87iJzX9UZsLmv5oyNylNphIW-6XCJo3-FPoYCiGXijaA2toij-r-W6=w240-h480",
-    "ss":"https://play-lh.googleusercontent.com/BG6_xpmj0Zrit4NRKtrf0gg-tZ6G-ZJ2JLaPFARuAZzKW070QKggmUSzWtsY4sqegWKM=w2560-h1440",
-    "link": "https://play.google.com/store/apps/details?id=com.app.developer.astro.widget",
-    "discount":"low price"
-  },
-        
-    {
-    "name": "Colorful Widget",
-    "icon":"https://play-lh.googleusercontent.com/gBrQfq4f_XH7TmgJMOV4ev3vzj-xoCD69Dz8e98rKccBXBXXGyRObuz5NKNH14RHkw=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/-jzLU7JomBpaBqo1zpab_8upwsYKqQ7qPhnkyUmD59wDNHJtfxL0-J433JnMH7dENno=w2560-h1440",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.colorful.widget",
-    "discount":"Limited Free App!!"
-  },
-                  
-  {
-    "name": "Util Widget",
-    "icon":"https://play-lh.googleusercontent.com/TDM8ncS2oqkYaZ1Dk-vkbmnZlGI2IDt9XYhUuHNzwQxEsq6ZNXCFG_bYibvcj6HSiQ=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/y1wbEEI6TuY7uEWxCb5hPvq9JTTliUfCSIHq4fFu-GI3Q7K3IJ8eC9SvNAXzQ9ay4os=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.util.widget",
-    "discount":"Free App"
-  },
-        
-    {
-    "name": "Digital Widget",
-    "icon":"https://play-lh.googleusercontent.com/jyPWzhYTWG1FQ-MXp0sLICbMbCJAZoA8vclnto11HbYMHhfcuDXqGqVsnVfnhmwfn_0=w480-h960",
-    "ss":"https://play-lh.googleusercontent.com/k6lbqtYFrSKGqrzNzYm9k937L-3ZAWOwM_iPDsazEQfIqbf8_rP2FXpdJVnA_krwNA=w5120-h2880",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.digital.widget",
-    "discount":"Free App"
-  },
-        
-   {
-    "name": "Count Up Widget",
-    "icon":"https://play-lh.googleusercontent.com/-SdeNJZ_B4rDc0QtTshFCc7PO2A2GJBlYvbYoay_riwr59QvTIBd0Hdit3Ka0RhvG9TN=w240-h480-rw",
-    "ss":"https://play-lh.googleusercontent.com/L5Ly_YbaQkPqSbXTJUE3HApaHwbk27M7sP9U5_h7Xwl7Xgp1mTDuFeE6CW_HS1_O0yZo=w2560-h1440-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.app.developer.countUp.widget",
-    "discount":"Free App"
+    "name": "Generate Own Ai Face Or Edit Your Photo With Ai",
+    "icon": "https://forum.xda-developers.com/attachments/unnamed-3-png.5914851/",
+    "ss": "https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/aiface.jpg",
+    "link": "https://play.google.com/store/apps/details?id=com.developer.ai.avatar.portraitgenerator",
+    "discount": "Try Now Free"
   }
        
         
