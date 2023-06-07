@@ -1,6 +1,14 @@
 [
         
   {
+    "name": "Apple Watch Widget",
+    "icon": "https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-5.png",
+    "ss": "https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-4.png",
+    "link": "https://play.google.com/store/apps/details?id=com.launch.app.apple",
+    "discount": "New App"
+  },
+        
+  {
     "name": "Generate Own Ai Face Or Edit Your Photo With Ai",
     "icon": "https://forum.xda-developers.com/attachments/unnamed-3-png.5914851/",
     "ss": "https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/aiface.jpg",
